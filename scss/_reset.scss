@@ -35,3 +35,7 @@ button {
   cursor: pointer;
   background-color: transparent;
 }
+
+::-webkit-scrollbar {
+  width: 0px;
+}
